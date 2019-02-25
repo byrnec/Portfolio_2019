@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    min-height: 400px;
+    margin-bottom: 50px;
+    clear: both;
+ }
+ h3 {
+     color: #1b241f;
+ }
+.jumbotron {
+    background-image: url("../images/annie-spratt-1200510-unsplash.jpg");
+    height: 20%;
+    color: white;
+    margin: 0 -20px;
+    border-radius: 0 !important;
+}
+#skills-area {
+    border-left: 1px solid lightgrey;
+}
+.project {
+    margin: 10px auto;
+    line-height: 0.6em;
+}
+.project-title {
+    color: #124b2c;
+}
+.project-description {
+    margin-bottom: 30px;
+}
+.img-responsive:hover {
+    box-shadow: 1px 1px 5px black;
+}
+.logo-image {
+    margin: 5px 10px;
+}
+.icon-image {
+    margin: 10px;
+}
+footer {
+    background-color: black;
+    color: lightgrey;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    display: inline-block;
+}
+
+.footer-link {
+    display:inline-block;
+    color: white;
+}
+
+#skills-spacer {
+    padding: 15px;
+}
+
+#first-skill {
+    border:none;
+}
+
+.skills-bucket {
+    margin: 5px auto;
+    border-top: 1px solid lightgrey;
+    border-radius: 3px;
+}
+.skills-header {
+    font-weight: 400;
+    margin-top: 10px;
+}
