@@ -1,8 +1,8 @@
 
 # Portfolio
 
-<img src="assets/images/readme-image.png" width="100%" style="border: 1px solid lightgrey;">
+<img src="assets/images/portfolio.png" width="100%" style="border: 1px solid lightgrey;">
 
-Please visit: [rhcmoore.github.io](https://rhcmoore.github.io/)
+Please visit: [byrnec.github.io](https://byrnec.github.io/)
 
-Let's connect on LinkedIn: [linkedin.com/in/rhcmoore](https://linkedin.com/in/rhcmoore)
+Let's connect on LinkedIn: [linkedin.com/in/christiebyrne](https://www.linkedin.com/in/christiebyrne/)
