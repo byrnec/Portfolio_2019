@@ -11,7 +11,8 @@ body {
      color: #1b241f;
  }
 .jumbotron {
-    background-image: url("../images/la.jpg");
+    background-image: url("../images/beach.jpeg");
+    background-size: cover;
     height: 20%;
     color: white;
     margin: 0 -20px;
